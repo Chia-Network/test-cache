@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Local generated plot solver cache; too large for GitHub normal blobs
+test-plots/.plot_cache.pickle
